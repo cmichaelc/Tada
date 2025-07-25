@@ -1,0 +1,6 @@
+{
+  "tasks": [
+    { "id": 1, "name": "Tâche 1", "description": "Description 1" },
+    { "id": 2, "name": "Tâche 2", "description": "Description 2" }
+  ]
+}
